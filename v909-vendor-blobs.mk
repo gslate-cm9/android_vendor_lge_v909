@@ -62,8 +62,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v909/proprietary/lib/libdrm1.so:system/lib/libdrm1.so \
     vendor/lge/v909/proprietary/lib/libdrm1_jni.so:system/lib/libdrm1_jni.so \
     vendor/lge/v909/proprietary/lib/liblgerft.so:system/lib/liblgerft.so \
-    vendor/lge/v909/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-    vendor/lge/v909/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/v909/proprietary/framework/com.tmus.gslate.apps.jar:system/framework/com.tmus.gslate.apps.jar \
     vendor/lge/v909/proprietary/bin/tegrastats:system/bin/tegrastats \
     vendor/lge/v909/proprietary/etc/firmware/nvmm_aacdec.axf:system/etc/firmware/nvmm_aacdec.axf \
