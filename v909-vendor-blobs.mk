@@ -27,7 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v909/proprietary/bin/bluetoothd:system/bin/bluetoothd \
     vendor/lge/v909/proprietary/bin/bluetoothhiddend:system/bin/bluetoothhiddend \
     vendor/lge/v909/proprietary/bin/drmserver:system/bin/drmserver \
-    vendor/lge/v909/proprietary/bin/etalog:system/bin/etalog \
     vendor/lge/v909/proprietary/bin/eventd:system/bin/eventd \
     vendor/lge/v909/proprietary/bin/lg_calibration:system/bin/lg_calibration \
     vendor/lge/v909/proprietary/bin/lg_check_cal_pass:system/bin/lg_check_cal_pass \
