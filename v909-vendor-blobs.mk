@@ -19,7 +19,6 @@ PRODUCT_COPY_FILES := \
     vendor/lge/v909/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
 
 PRODUCT_COPY_FILES += \
-    vendor/lge/v909/proprietary/bin/am:system/bin/am \
     vendor/lge/v909/proprietary/bin/bdaddr_init:system/bin/bdaddr_init \
     vendor/lge/v909/proprietary/bin/bmgr:system/bin/bmgr \
     vendor/lge/v909/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
@@ -38,7 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v909/proprietary/bin/motion:system/bin/motion \
     vendor/lge/v909/proprietary/bin/nv_hciattach:system/bin/nv_hciattach \
     vendor/lge/v909/proprietary/bin/nvtest:system/bin/nvtest \
-    vendor/lge/v909/proprietary/bin/omx_tests:system/bin/omx_tests \
     vendor/lge/v909/proprietary/bin/pppd:system/bin/pppd \
     vendor/lge/v909/proprietary/bin/RescueServer:system/bin/RescueServer \
     vendor/lge/v909/proprietary/bin/RescueStarter:system/bin/RescueStarter \
