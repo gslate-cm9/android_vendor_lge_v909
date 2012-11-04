@@ -43,6 +43,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v909/proprietary/bin/wl:system/bin/wl \
     vendor/lge/v909/proprietary/etc/enctune.conf:system/etc/enctune.conf \
     vendor/lge/v909/proprietary/etc/init.goldfish.sh:system/etc/init.goldfish.sh \
+    vendor/lge/v909/proprietary/etc/model_frontal.xml:system/etc/model_frontal.xml \
+    vendor/lge/v909/proprietary/etc/nvcamera.conf:system/etc/nvcamera.conf \
     vendor/lge/v909/proprietary/etc/bluetooth/BCM4329B1_002.002.023.0875.0883.hcd:system/etc/bluetooth/BCM4329B1_002.002.023.0875.0883.hcd \
     vendor/lge/v909/proprietary/etc/permissions/com.nvidia.display.xml:system/etc/permissions/com.nvidia.display.xml \
     vendor/lge/v909/proprietary/etc/permissions/com.tmus.gslate.apps.xml:system/etc/permissions/com.tmus.gslate.apps.xml \
