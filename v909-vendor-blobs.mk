@@ -38,6 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v909/proprietary/bin/nv_hciattach:system/bin/nv_hciattach \
     vendor/lge/v909/proprietary/bin/nvtest:system/bin/nvtest \
     vendor/lge/v909/proprietary/bin/pppd:system/bin/pppd \
+    vendor/lge/v909/proprietary/bin/recoveryd:system/bin/recoveryd \
     vendor/lge/v909/proprietary/bin/wifihiddend:system/bin/wifihiddend \
     vendor/lge/v909/proprietary/bin/wl:system/bin/wl \
     vendor/lge/v909/proprietary/etc/init.goldfish.sh:system/etc/init.goldfish.sh \
@@ -48,7 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v909/proprietary/etc/wifi/nvram.txt:system/etc/wifi/nvram.txt \
     vendor/lge/v909/proprietary/lib/hw/gps.startablet.so:system/lib/hw/gps.startablet.so \
     vendor/lge/v909/proprietary/lib/hw/sensors.startablet.so:system/lib/hw/sensors.startablet.so \
-    vendor/lge/v909/proprietary/lib/hw/lights.startablet.so:system/lib/hw/lights.startablet.so \
     vendor/lge/v909/proprietary/lib/lge-ril.so:system/lib/lge-ril.so \
     vendor/lge/v909/proprietary/lib/libbcmwl.so:system/lib/libbcmwl.so \
     vendor/lge/v909/proprietary/lib/libblueset.so:system/lib/libblueset.so \
